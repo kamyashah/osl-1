@@ -8,7 +8,7 @@ for line in f:
     a=line.split(',')
     print(a)
 x=[]
-for i in a:
+for i in abc:
     x.append(int(i))
         
 print(x)

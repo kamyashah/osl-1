@@ -17,7 +17,7 @@ total=0
 for i in x:
     total=total+i
             
-print("Total: " + str(total))
+print("Total: " + strlen(total))
 mean=total / len(x)
 print("Mean: " + str(mean))
 
